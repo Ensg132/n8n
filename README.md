@@ -1,1 +1,1 @@
-# n8n
+# Repositorio donde ire subiendo las memorias de practica y una copia de mis flujos de trabajo. Los documentos incompletos se subiran a una rama secundaria pero seguiran siendo visibles en caso de querer verlos o comentarme cualquier tipo de retroalimentacion para mejorarlos.
